@@ -1,0 +1,37 @@
+{
+    "identificacion": "1111111111",
+    "tipoCuenta": "Ahorro",
+    "saldoInicial": "2000",
+	"numeroCuenta": "478758"
+    
+}
+
+{
+    "identificacion": "1111111112",
+    "tipoCuenta": "Corriente",
+    "saldoInicial": "100",
+	"numeroCuenta": "225487"
+    
+}
+
+{
+    "identificacion": "1111111113",
+    "tipoCuenta": "Ahorro",
+    "saldoInicial": "0",
+	"numeroCuenta": "495878"
+}
+
+{
+    "identificacion": "1111111112",
+    "tipoCuenta": "Ahorro",
+    "saldoInicial": "540",
+	"numeroCuenta": "496825"
+}
+
+{
+    "identificacion": "1111111111",
+    "tipoCuenta": "Corriente",
+    "saldoInicial": "2000",
+	"numeroCuenta": "585545"
+    
+}
