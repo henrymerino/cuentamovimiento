@@ -1,6 +1,6 @@
 # Indicaciones
 
-En la carpeta script se enucentra los json para crear clientes, cuentas, movimientos, borrar
+En la carpeta scripts se enucentra los json para crear clientes, cuentas, movimientos, borrar
 
 Ademas se adjunta las URL de POSTMAN de cada rest
 
