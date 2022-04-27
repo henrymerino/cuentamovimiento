@@ -4,5 +4,5 @@ En la carpeta script se enucentra los json para crear clientes, cuentas, movimie
 
 Ademas se adjunta las URL de POSTMAN de cada rest
 
-Se adjunta el script de base de datos Postgres y su diagrma en powerdesiner.
+Se adjunta el script de base de datos Postgres y su diagrma en power designer.
 
